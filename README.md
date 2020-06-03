@@ -5,7 +5,7 @@ A log analyzer for HTTP requests to a web server
 
 - Add the log file you want to process as shown below,
 ```c#
-ifstream filename("access_log.txt"); 
+ifstream filename("[File_Name]"); 
 ```
 - Open up a new terminal 
 
